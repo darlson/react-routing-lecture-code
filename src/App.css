@@ -22,8 +22,10 @@ img {
   justify-content: space-between;
 }
 
-.header-container span {
+.nav-links {
   font-size: 24px;
+  text-decoration: none;
+  color: black;
 }
 
 .landing, .about, .contact {
